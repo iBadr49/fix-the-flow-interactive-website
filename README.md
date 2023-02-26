@@ -9,6 +9,13 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 <!-- Schrijf de user story waar je aan hebt gewerkt  -->
 __User Story:__ Als ouder wil ik in een dagboek aantekeningen kunnen maken zodat ik niet vergeet wat er is gebeurd.
 
+## Inhoudsopgave
+
+- [Beschrijving](#beschrijving)
+- [Kenmerken](#kenmerken)
+- [Bronnen](#bronnen)
+- [Licentie](#licentie)
+
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
@@ -46,7 +53,6 @@ Hoe heb ik deze intercatie gemaakt? __Check__ hieronder:
 ```
 
 💬 JavaScript 
-
 ```js
 const input1 = document.querySelector('.input1');
 const inputOn = document.querySelector('.inputOn');
@@ -60,6 +66,11 @@ function inputClick(){
     paragraph.classList.toggle('test');
 }
 ```
+
+## Bronnen
+- "Suus" Workshop
+- https://codepen.io/
+
 
 ## Licentie
 
