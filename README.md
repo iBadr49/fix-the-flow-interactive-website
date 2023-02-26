@@ -14,10 +14,10 @@ __User Story:__ Als ouder wil ik in een dagboek aantekeningen kunnen maken zodat
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
-📸 - Before TAP/KLIk
+📸 - Before TAP/KLIK
 ![image](https://user-images.githubusercontent.com/112857932/213443968-5857a130-8f06-48d5-8aa2-68b7222729b6.png)
 
-📸 - After TAP/KLIL
+📸 - After TAP/KLIK
 ![image](https://user-images.githubusercontent.com/112857932/213443984-3d92cdb4-fd6e-4a56-9c63-094b19b0acd3.png)
 
 🌐 - Interactie - url: https://ibadr49.github.io/fix-the-flow-interactive-website/agenda.html
